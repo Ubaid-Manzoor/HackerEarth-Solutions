@@ -2,6 +2,10 @@
 #include <vector>
 #include <algorithm>
 
+/*
+ * THIS IS NOT COMPELETE YET
+ * */
+
 using namespace std;
 
 void printVector(vector<int> vec){
